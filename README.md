@@ -6,7 +6,7 @@ Consiste em uma pagina de home simples com um menu de navegação, que ao ser ab
 
 ## Indice do Repósitório -
 
-* [Acesse o link da pagina](https://artguiar.github.io/Formulario-de-Registro/)
----
+* [Acesse o link da pagina](https://artguiar.github.io/Apple-Layout-Responsivo-NavBar-Responsiva/)
+
 
 
